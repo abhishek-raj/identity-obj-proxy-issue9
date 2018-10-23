@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "identity-obj-proxy-issue-9-client-side-solution",
+    "id": "deea999a-9be1-4fc5-8575-ef637d51998b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/identity-obj-proxy-issue-9.sppkg"
+  }
+}

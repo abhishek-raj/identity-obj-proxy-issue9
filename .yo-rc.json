@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "identity-obj-proxy-issue-9",
+    "libraryId": "deea999a-9be1-4fc5-8575-ef637d51998b",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
