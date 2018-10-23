@@ -3,7 +3,8 @@
 This is where you include your WebPart documentation.
 
 ### Repro steps
-```npm install
+```
+npm install
 npm test
 ```
 
